@@ -1,9 +1,14 @@
 {
   "type": "module",
   "dependencies": {
+    "chalk": "^5.4.1",
+    "exceljs": "^4.4.0",
+    "jsdom": "^26.1.0",
     "puppeteer": "^24.1.0",
     "puppeteer-core": "^24.1.0",
     "puppeteer-extra": "^3.3.6",
-    "puppeteer-extra-plugin-stealth": "^2.11.2"
+    "puppeteer-extra-plugin-stealth": "^2.11.2",
+    "puppeteer-real-browser": "^1.4.3",
+    "xmldom": "^0.6.0"
   }
 }
